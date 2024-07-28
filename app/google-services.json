@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190356516093",
+    "project_id": "pencatatan-warga",
+    "storage_bucket": "pencatatan-warga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190356516093:android:1f95ac1bba4a8de7bc6294",
+        "android_client_info": {
+          "package_name": "com.example.pencatatan_warga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGrEzhiHAZ6C2QNAuK0uwK1-nTqZ2jpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
